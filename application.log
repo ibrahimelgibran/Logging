@@ -1,0 +1,73 @@
+11:33:13.150 [main] TRACE iegcode.logging.LevelTest - Trace
+11:33:13.151 [main] DEBUG iegcode.logging.LevelTest - Debug
+11:33:13.151 [main] INFO  iegcode.logging.LevelTest - Info
+11:33:13.151 [main] WARN  iegcode.logging.LevelTest - Warning
+11:33:13.151 [main] ERROR iegcode.logging.LevelTest - Error
+11:38:09.088 [main] TRACE iegcode.logging.LevelTest - Trace
+11:38:09.089 [main] DEBUG iegcode.logging.LevelTest - Debug
+11:38:09.089 [main] INFO  iegcode.logging.LevelTest - Info
+11:38:09.089 [main] WARN  iegcode.logging.LevelTest - Warning
+11:38:09.089 [main] ERROR iegcode.logging.LevelTest - Error
+2024-01-31 11:45:12.038 [main] TRACE iegcode.logging.LevelTest - Trace
+2024-01-31 11:45:12.039 [main] DEBUG iegcode.logging.LevelTest - Debug
+2024-01-31 11:45:12.039 [main] INFO  iegcode.logging.LevelTest - Info
+2024-01-31 11:45:12.039 [main] WARN  iegcode.logging.LevelTest - Warning
+2024-01-31 11:45:12.039 [main] ERROR iegcode.logging.LevelTest - Error
+2024-01-31 12:00:23.225 [main] INFO  iegcode.logging.MyController - Controller Save
+2024-01-31 12:02:46.108 [main] INFO  iegcode.logging.MyController - Controller Save
+2024-01-31 12:02:46.109 [main] INFO  iegcode.logging.MyService - Service Save
+2024-01-31 12:02:46.109 [main] INFO  iegcode.logging.MyRepository - Repository Save
+2024-01-31 12:06:41.191 [main] INFO  iegcode.logging.MyController - [] - Controller Save
+2024-01-31 12:06:41.192 [main] INFO  iegcode.logging.MyService - [] - Service Save
+2024-01-31 12:06:41.192 [main] INFO  iegcode.logging.MyRepository - [] - Repository Save
+2024-01-31 12:08:22.905 [main] INFO  iegcode.logging.MyController - [07c1b667-0894-4781-b4f9-3ab5f4a58ac8] - Controller Save
+2024-01-31 12:08:22.905 [main] INFO  iegcode.logging.MyService - [07c1b667-0894-4781-b4f9-3ab5f4a58ac8] - Service Save
+2024-01-31 12:08:22.905 [main] INFO  iegcode.logging.MyRepository - [07c1b667-0894-4781-b4f9-3ab5f4a58ac8] - Repository Save
+2024-01-31 12:11:51.528 [main] INFO  iegcode.logging.MyController - [f382bc84-f1ca-45f0-a418-eefbd73ca1f9] - Controller Save
+2024-01-31 12:11:51.529 [main] INFO  iegcode.logging.MyService - [f382bc84-f1ca-45f0-a418-eefbd73ca1f9] - Service Save
+2024-01-31 12:11:51.529 [main] INFO  iegcode.logging.MyRepository - [f382bc84-f1ca-45f0-a418-eefbd73ca1f9] - Repository Save
+2024-01-31 12:15:00.479 [Thread-4] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.479 [Thread-1] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.480 [Thread-4] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.479 [Thread-5] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.480 [Thread-1] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-5] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.479 [Thread-2] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.480 [Thread-4] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.479 [Thread-7] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.479 [Thread-6] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.479 [Thread-8] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.480 [Thread-7] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-6] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.479 [Thread-9] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.479 [Thread-0] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.479 [Thread-3] INFO  iegcode.logging.MyController - [a288c864-964c-4676-a7f6-66e3e1663439] - Controller Save
+2024-01-31 12:15:00.480 [Thread-0] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-1] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-0] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-5] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-2] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-8] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-2] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-6] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-8] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-7] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.480 [Thread-9] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.480 [Thread-3] INFO  iegcode.logging.MyService - [a288c864-964c-4676-a7f6-66e3e1663439] - Service Save
+2024-01-31 12:15:00.481 [Thread-9] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:00.481 [Thread-3] INFO  iegcode.logging.MyRepository - [a288c864-964c-4676-a7f6-66e3e1663439] - Repository Save
+2024-01-31 12:15:46.972 [Thread-2] INFO  iegcode.logging.MyController - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Controller Save
+2024-01-31 12:15:46.972 [Thread-0] INFO  iegcode.logging.MyController - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Controller Save
+2024-01-31 12:15:46.972 [Thread-3] INFO  iegcode.logging.MyController - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Controller Save
+2024-01-31 12:15:46.972 [Thread-4] INFO  iegcode.logging.MyController - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Controller Save
+2024-01-31 12:15:46.973 [Thread-3] INFO  iegcode.logging.MyService - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Service Save
+2024-01-31 12:15:46.972 [Thread-1] INFO  iegcode.logging.MyController - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Controller Save
+2024-01-31 12:15:46.973 [Thread-2] INFO  iegcode.logging.MyService - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Service Save
+2024-01-31 12:15:46.973 [Thread-0] INFO  iegcode.logging.MyService - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Service Save
+2024-01-31 12:15:46.973 [Thread-2] INFO  iegcode.logging.MyRepository - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Repository Save
+2024-01-31 12:15:46.973 [Thread-1] INFO  iegcode.logging.MyService - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Service Save
+2024-01-31 12:15:46.973 [Thread-3] INFO  iegcode.logging.MyRepository - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Repository Save
+2024-01-31 12:15:46.973 [Thread-4] INFO  iegcode.logging.MyService - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Service Save
+2024-01-31 12:15:46.973 [Thread-0] INFO  iegcode.logging.MyRepository - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Repository Save
+2024-01-31 12:15:46.974 [Thread-1] INFO  iegcode.logging.MyRepository - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Repository Save
+2024-01-31 12:15:46.974 [Thread-4] INFO  iegcode.logging.MyRepository - [64f4fc9e-9942-401b-a48d-13aea8b82440] - Repository Save
